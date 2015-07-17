@@ -67,4 +67,4 @@ Supported parameters for eval array
 | limitYearToAge  | false | select | The 'to' value of the year range will be limited to the age (e.g. ageCheck=18: date('Y') - 18 |
 
 # Credits
- * As a base for the extension the idea and some code parts were taken from aschempp's datefield.
+ * Some code parts were taken from aschempp's datefield, because the intention of this extension was to improve it.
