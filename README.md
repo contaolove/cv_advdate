@@ -65,3 +65,6 @@ Supported parameters for eval array
 | ageCheck  | 0 | select, text | Calculates the age for the given value and prevent from saving if value is not valid |
 | rangeYear  | 1900,date('Y') | select | The from-to range for the select field for the year field. If 'from' value is bigger then the 'to' value, the 'to' value minus 1 is taken |
 | limitYearToAge  | false | select | The 'to' value of the year range will be limited to the age (e.g. ageCheck=18: date('Y') - 18 |
+
+# Credits
+ * As a base for the extension the idea and some code parts were taken from aschempp's datefield.
