@@ -1,6 +1,9 @@
 # Advanced date field
 Provides the advanced date field widget for frontend and backend, which allows you to split up a 'date' field into 3 text or select fields for day, month and year.
 
+The widget isn't uploaded yet, because the development structure to use git with all extensions isn't done yet.
+If you are interested to use the widget, please send me an e-mail.
+
 # Dependencies
 If you are not using Composer to install this widget, you will also need:
 https://github.com/terminal42/contao-NamespaceClassLoader
